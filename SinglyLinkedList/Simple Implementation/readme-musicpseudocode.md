@@ -1,4 +1,5 @@
  # Music Playlist  Pseudocode
+ ```
 BEGIN MAIN
     CREATE Playlist
     SET head = NULL
@@ -19,3 +20,4 @@ BEGIN MAIN
     END WHILE
     PRINT "End of playlist"
 END MAIN
+```
