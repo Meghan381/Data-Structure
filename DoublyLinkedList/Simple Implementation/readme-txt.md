@@ -1,53 +1,65 @@
-# Doubly Linked List
+# Doubly Linked List in Java
+This project implements a simple Doubly Linked List in Java.
+A doubly linked list is a linear data structure where:
 
-This project implements a Doubly Linked List in Java.
-It demonstrates basic linked list operations such as inserting, deleting, displaying, and searching elements.
+Each node contains data
 
-The program stores String values and performs various operations to show how a Doubly linked list works.
+A reference to the next node
 
-##  Features Implemented
+A reference to the previous node
 
-Insert at the beginning
+This allows traversal in both forward and backward directions.
 
-Insert at the end
+## Classes Included
+1️⃣ DoublyNode
 
-Delete from the beginning
+Represents a node in the list.
 
-Delete from the end
+Attributes:
 
-Search for an element
+int data
 
-Display list contents
+DoublyNode Next
 
-## Project Structure
-LinkedList.java          // Main class with test cases
-DoublyLinkedList.java    // Linked list implementation
-Node.java                // Node structure class
+DoublyNode prev
 
-## How the Program Works
+2️⃣ DoublyLinkedList
 
-Creates an empty linked list.
+Implements the operations of the doubly linked list.
 
-Inserts the following words:
+Attributes:
 
-Hi → my → name → is → Vitron
+DoublyNode head
 
-Deletes:
+## Methods:
+insertAtBeginning(int data) → Inserts a node at the start
 
-First element
+insertAtEnd(int data) → Inserts a node at the end
 
-Last element
+deleteFromBeginning() → Deletes the first node
 
-Searches for specific elements.
+deleteFromEnd() → Deletes the last node
 
-Displays the list after every operation.
+display() → Displays the list elements
 
-##  Sample Operations in Main
-Stringlist.insertAtBeginning("Hi");
-Stringlist.insertAtEnd("my");
-Stringlist.insertAtEnd("name");
-Stringlist.insertAtEnd("is");
-Stringlist.insertAtEnd("Vitron");
+3️⃣ DoublyList (Main Class)
+
+Contains the main() method to test the list operations.
+
+## Operations Demonstrated in Main
+DoublyLinkedList list = new DoublyLinkedList();
+
+list.insertAtBeginning(2);
+list.insertAtEnd(8);
+list.display();
+
+list.insertAtEnd(4);
+list.deleteFromBeginning();
+list.display();
+
+## Sample Output
+2–>8–>null
+8–>4–>null
 
 img(<img width="544" height="445" alt="DoublySimple" src="https://github.com/user-attachments/assets/3f413e6f-8eb8-4328-a3cc-3c93f3193b11" />
 
