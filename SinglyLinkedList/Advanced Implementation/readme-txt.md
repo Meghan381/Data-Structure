@@ -65,3 +65,5 @@ Enter choice: 11
 Enter numbers to add (e.g., 1,2,3 or 1-5) or A for all): 
 Choice: A
 ✅ Added all 3 songs!=
+
+img(<img width="714" height="447" alt="SinglyAdvanced" src="https://github.com/user-attachments/assets/91adbde2-501c-415a-91f2-c8a65bbf7d58" />
