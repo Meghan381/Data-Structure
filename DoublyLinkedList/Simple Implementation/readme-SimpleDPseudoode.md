@@ -1,4 +1,5 @@
  # Doubly Linked List Pseudocode
+ ```
 BEGIN MAIN
     CREATE DoublyLinkedList
     SET head = NULL
@@ -45,3 +46,4 @@ BEGIN MAIN
     END WHILE
     PRINT "null"
 END MAIN
+```
