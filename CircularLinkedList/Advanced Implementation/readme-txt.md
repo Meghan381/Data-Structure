@@ -97,5 +97,6 @@ Time 3-6: P2 executed (3 units)
 Time 6-9: P3 executed (3 units)
 === All processes completed ===
 
+img(<img width="498" height="313" alt="CircularAdvancedscreenshoot" src="https://github.com/user-attachments/assets/6899f76a-1be3-415c-aaca-6faab34a3cb5" />
 
 
