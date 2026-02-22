@@ -72,3 +72,6 @@ Playing: Shape of You | Artist: Ed Sheeran | Duration: 3s
 Playing: Blinding Lights | Artist: The Weeknd | Duration: 4s
 Playing: Perfect | Artist: Ed Sheeran | Duration: 5s
 End of playlist
+
+img(<img width="655" height="372" alt="SinglySimple" src="https://github.com/user-attachments/assets/6a62befe-b491-4ce4-a530-0701d5087db9" />
+
