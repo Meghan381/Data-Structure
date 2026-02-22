@@ -1,5 +1,6 @@
 # Music Player System
 ## MAIN PROGRAM
+```
 BEGIN MAIN
     CREATE MusicPlayerApp object called app
     CALL app.start()
@@ -100,3 +101,4 @@ BEGIN MAIN
     Perform selected playlist or playback operation
     Exit when user selects 0
 END MAIN
+```
