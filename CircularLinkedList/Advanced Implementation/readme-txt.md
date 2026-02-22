@@ -96,5 +96,6 @@ Time 0-3: P1 executed (3 units)
 Time 3-6: P2 executed (3 units)
 Time 6-9: P3 executed (3 units)
 === All processes completed ===
-img("C:\Users\Administrator\OneDrive\Pictures\CircularAdvanced.png")
+
+img("C:\Users\Administrator\OneDrive\Pictures\Screenshots\CircularAdvancedscreenshoot.png"
 
