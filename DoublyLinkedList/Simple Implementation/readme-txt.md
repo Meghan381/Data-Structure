@@ -49,3 +49,5 @@ Stringlist.insertAtEnd("name");
 Stringlist.insertAtEnd("is");
 Stringlist.insertAtEnd("Vitron");
 
+img(<img width="544" height="445" alt="DoublySimple" src="https://github.com/user-attachments/assets/3f413e6f-8eb8-4328-a3cc-3c93f3193b11" />
+
