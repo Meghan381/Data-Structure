@@ -4,6 +4,7 @@ This program performs multiplication of two 2*2 matrices using nested loops in j
 
 ---
 ## Pseudocode
+```
 BEGIN
    DECLARE  matrix   A    as   2 * 2
     DECLARE  matrix   B   as    2 * 2
@@ -19,7 +20,7 @@ BEGIN
           END FOR
 END FOR
 PRINT matrix C
- 
+ ```
                    
 
 
