@@ -72,3 +72,5 @@ No previous page.
 After back to ebay: Current Page: ebay.com
 After visiting target.com: Current Page: target.com
 No forward page.
+
+img(<img width="546" height="437" alt="DoublyAdvanced" src="https://github.com/user-attachments/assets/f5e7f198-762d-4a2f-9559-5cab98614286" />
