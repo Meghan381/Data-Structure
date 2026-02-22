@@ -1,4 +1,5 @@
  # Round Robin Scheduler Pseudocode
+ ```
 BEGIN MAIN
    PRINT "=== SIMPLE ROUND ROBIN SCHEDULER ==="
     CREATE RoundRobinScheduler
@@ -32,3 +33,4 @@ BEGIN MAIN
     PRINT "Final Queue:"
     DISPLAY queue (should be empty)
 END MAIN
+```
