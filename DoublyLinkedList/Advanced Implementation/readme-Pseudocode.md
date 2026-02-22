@@ -1,4 +1,5 @@
 # Doubly Browser Pseudocode
+```
 BEGIN MAIN
 
 CREATE browser WITH homepage "google.com"
@@ -46,3 +47,4 @@ CALL displayCurrentPage()
 CALL forward()
 
 END MAIN
+```
